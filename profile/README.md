@@ -1,8 +1,3 @@
-![Group](https://img.shields.io/website?up_message=Collins%20Research%20Group&url=https%3A%2F%2Flabs.wsu.edu%2Fcarbon%2F&color=981E32)
-![News](https://img.shields.io/website?up_message=Our%20News&url=https%3A%2F%2Flabs.wsu.edu%2Fcarbon%2Fcategory%2Fnews%2F&color=981E32)
-![Website](https://img.shields.io/website?up_message=Other%20Analysis%20Tools&url=https%3A%2F%2Flabs.wsu.edu%2Fcarbon%2Fxray-analysis-tools%2F&color=981E32)
-
-
 # Collins Research Group
 ### DEPARTMENT OF PHYSICS AND ASTRONOMY
 

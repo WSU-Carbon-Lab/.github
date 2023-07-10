@@ -5,3 +5,4 @@ Welcome to the Collins Group at Washington State University. Our research is hig
 
 - [ ] To get started with our GitHub, start off by learning the ropes with an introduction to the power of [GitHub](https://docs.github.com/en/get-started/quickstart/hello-world).
 - [ ] You may also want to familiarize yourself with our groups [Style Guide](https://github.com/WSU-Carbon-Lab/Setup)
+- [ ] If you want all [Igor Procedures](https://github.com/WSU-Carbon-Lab/Igor-Standard-Procs/releases/tag/v0.0.1)
